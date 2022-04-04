@@ -4,8 +4,7 @@
 ## Apis
 
 1 Ejecutar comando composer install
-
+2 Se debe crear la base de datos y luego ejecutar las migraciones con el comando php artisan migrate, asi se crearan las tablas. 
 
 ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
